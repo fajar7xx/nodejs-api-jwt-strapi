@@ -1,0 +1,21 @@
+video node.js e-commerce app rest api with mongodb:
+    ✔ 00:21:37 https://youtu.be/rMiRZ1iRC0A?t=1297 @done(22-06-14 14:26)
+    ✔ 00:33:47 https://youtu.be/rMiRZ1iRC0A?t=2027 @done(22-06-14 18:39)
+    ✔ 00:43:03 https://youtu.be/rMiRZ1iRC0A?t=2583 @done(22-06-14 19:59)
+    ✔ 00:50:36 https://youtu.be/rMiRZ1iRC0A?t=3036 @done(22-06-14 22:06)
+    ☐ 01:02:12 https://youtu.be/rMiRZ1iRC0A?t=3732
+
+
+dokumentasi:
+    ☐ https://github.com/auth0/node-jsonwebtoken
+    ☐ https://github.com/brix/crypto-js
+    ☐ https://github.com/expressjs/body-parser
+    ☐ https://github.com/motdotla/dotenv
+    ☐ https://expressjs.com/en/5x/api.html#express.json
+    ☐ https://mongoosejs.com/docs/models.html#compiling
+    ☐ https://www.mongodb.com/docs/manual/reference/connection-string/
+    ☐ https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-ubuntu/
+    ☐ https://github.com/fadlytanjung?tab=repositories
+        ☐ https://github.com/fadlytanjung/node-api-express-mongo
+    ☐ https://github.com/goldbergyoni/nodebestpractices#1-project-structure-practices
+    ☐ https://cryptojs.gitbook.io/docs/
