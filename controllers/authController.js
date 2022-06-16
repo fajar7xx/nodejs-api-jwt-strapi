@@ -21,7 +21,7 @@ const register = async (request, response) => {
     });
   } catch (err) {
     console.error(err);
-    response.status(500).json(err);
+    return response.status(500).json(err);
   }
 };
 
@@ -61,7 +61,7 @@ const login = async (request, response) => {
       token: accessToken,
     });
   } catch (err) {
-    response.status(500).json(err);
+    return response.status(500).json(err);
   }
 };
 
